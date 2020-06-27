@@ -39,3 +39,12 @@ python processing_time_wrist_extension.py
 
 python processing_time_wrist_flexion.py 
 ```
+
+##Running Driving Simulations
+1. Driving simulation trial data for target trajectories and measured trajectories are provided in `ml_for_semg_ahfe2020/results_right_u-turn` and `ml_for_semg_ahfe2020/results_left_u-turn`。
+2. In order to obtain trajectory data by rerunning driving simulations, scripts are provided for left and right U-turns.
+```
+python sEMG_interface_narrow_left_uturn.py
+
+python sEMG_interface_narrow_right_uturn.py
+```
