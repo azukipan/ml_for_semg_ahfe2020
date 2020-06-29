@@ -16,11 +16,15 @@ git clone https://github.com/azukipan/ml_for_semg_ahfe2020.git
 ```
 svn checkout https://projects.beamng.com/svn/research@14
 ```
-2. Install Python interface `beamngpy` for BeamNG.research.
+2. In the directory where BeamNG.research was downloaded, open the driving simulator
+```
+.\research\trunk\BeamNG.research.x64.exe
+```
+In the simulator, go to Scenarios > Download More! > Mods and download the `simple_map.zip`. 
+3. Install Python interface `beamngpy` for BeamNG.research.
 ```
 pip install beamngpy==1.11
 ```
-
 ## Evaluating Machine Learning Methods
 In ordr to evaluate Linear Discriminant Analysis (LDA), as published in the AHFE 2020 paper, go to the putEMG dataset directory for `putemg_examples` and run `shallow_learn.py` with Python 3.7.
 ```
