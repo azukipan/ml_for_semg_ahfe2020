@@ -1,5 +1,5 @@
 # Driving Simulator Validation of Machine Learning Classification for a Surface Electromyography-based Steering Assistance Interface
-This repository contains scripts and data files to supplement results published in a paper for the 11th International Conference on Applied Human Factors and Ergonomics (AHFE 2020).
+This repository contains scripts and data files to supplement results published in a paper for the 11th International Conference on Applied Human Factors and Ergonomics (AHFE 2020).  Link to paper: https://doi.org/10.1007/978-3-030-51064-0_19.
 
 ## Setup
 ### Getting Started
