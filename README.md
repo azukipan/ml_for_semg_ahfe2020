@@ -21,6 +21,7 @@ svn checkout https://projects.beamng.com/svn/research@14
 .\research\trunk\BeamNG.research.x64.exe
 ```
 In the simulator, go to Scenarios > Download More! > Mods and download the `simple_map.zip`. 
+
 3. Install Python interface `beamngpy` for BeamNG.research.
 ```
 pip install beamngpy==1.11
