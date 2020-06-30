@@ -8,11 +8,11 @@ Install Python 3.7 and download this repository.
 git clone https://github.com/azukipan/ml_for_semg_ahfe2020.git
 ```
 ### putEMG Dataset
-1. Follow setup instructions for the putEMG dataset at https://biolab.put.poznan.pl/putemg-dataset/. 
-2. Download the putEMG dataset repository from https://github.com/biolab-put/putemg-downloader.
-3. Download exammple Python scripts from https://github.com/biolab-put/putemg_examples.
+1. Follow setup instructions for the [putEMG datase](https://biolab.put.poznan.pl/putemg-dataset/). 
+2. Download the putEMG [dataset repository](https://github.com/biolab-put/putemg-downloader).
+3. Download exammple [Python scripts](https://github.com/biolab-put/putemg_examples).
 ### BeamNG.research Driving Simulator
-1. Using Windows 10 64 Bit, download BeamNG.reserach v1.4.0.0 using Subversion (https://subversion.apache.org/).
+1. Using Windows 10 64 Bit, download BeamNG.reserach v1.4.0.0 using [Subversion](https://subversion.apache.org/).
 ```
 svn checkout https://projects.beamng.com/svn/research@14
 ```
