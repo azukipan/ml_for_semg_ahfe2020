@@ -26,7 +26,7 @@ In the simulator, go to Scenarios > Download More! > Mods and download the `simp
 pip install beamngpy==1.11
 ```
 ## Evaluating Machine Learning Methods
-In ordr to evaluate Linear Discriminant Analysis (LDA), as published in the AHFE 2020 paper, go to the putEMG dataset directory for `putemg_examples` and run `shallow_learn.py` with Python 3.7.
+The `shallow_learn.py` script for the puteEMG dataset evaluates Linear Discriminant Analysis (LDA) for the sEMG steering interface described in the AHFE 2020 paper as well as three other potential machine learning methods: k-nearest Neighbors Algorithm (kNN), Quadratic Discriminant Analysis (QDM) and Support-Vector Machine (SVM). In order to evaluate, go to `/putemg_examples` in the dataset directory and run `shallow_learn.py` with Python 3.7.
 ```
 mkdir shallow_learn_results
 
